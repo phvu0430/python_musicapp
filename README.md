@@ -1,2 +1,2 @@
 # python_musicapp
-Bài tập lớp môn phát triển ứng dụng mã nguồn mở
+Bài tập lớn môn phát triển ứng dụng mã nguồn mở
